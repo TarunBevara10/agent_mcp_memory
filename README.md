@@ -95,8 +95,3 @@ python server.py
 
 Graphiti enables long-term memory support.
 
-Follow the setup guide in the official README:
-
-👉 [https://github.com/patchy631/ai-engineering-hub/blob/main/graphiti-mcp/README.md](https://github.com/patchy631/ai-engineering-hub/blob/main/graphiti-mcp/README.md)
-
-You can still learn the basics using only the Linkup MCP server, but Graphiti unlocks advanced memory workflows.
